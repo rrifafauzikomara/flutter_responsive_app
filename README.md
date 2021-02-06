@@ -1,4 +1,4 @@
-# Movie App
+# Flutter Responsive App
 ![GitHub stars](https://img.shields.io/github/stars/rrifafauzikomara/flutter_responsive_app?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/rrifafauzikomara/flutter_responsive_app?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/rrifafauzikomara/flutter_responsive_app?style=social)
@@ -10,7 +10,7 @@
 
 ## 📸 Before
 <pre>
-<img src="screenshot/before/phone1.png" width="28.5%">     <img src="screenshot/before/phone2.png" width="28.5%">     <img src="screenshot/before/phone3.png" width="28.5%">     <img src="screenshot/before/phone4.png" width="28.5%">     <img src="screenshot/before/phone5.png" width="28.5%">     <img src="screenshot/before/phone6.png" width="28.5%">
+<img src="screenshot/before/phone1.png">     <img src="screenshot/before/phone2.png">     <img src="screenshot/before/phone3.png">     <img src="screenshot/before/phone4.png">     <img src="screenshot/before/phone5.png">     <img src="screenshot/before/phone6.png">
 </pre>
 
 
