@@ -1,16 +1,20 @@
-# flutter_responsive_app
+# Movie App
+![GitHub stars](https://img.shields.io/github/stars/rrifafauzikomara/flutter_responsive_app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rrifafauzikomara/flutter_responsive_app?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/rrifafauzikomara/flutter_responsive_app?style=social)
 
-A new Flutter application.
 
-## Getting Started
+[![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rrifafauzikomara/flutter_responsive_app)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Before
+<pre>
+<img src="screenshot/before/phone1.png" width="28.5%">     <img src="screenshot/before/phone2.png" width="28.5%">     <img src="screenshot/before/phone3.png" width="28.5%">     <img src="screenshot/before/phone4.png" width="28.5%">     <img src="screenshot/before/phone5.png" width="28.5%">     <img src="screenshot/before/phone6.png" width="28.5%">
+</pre>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 After
+<pre>
+<img src="screenshot/after/phone1.png" width="28.5%">     <img src="screenshot/after/phone2.png" width="28.5%">     <img src="screenshot/after/phone3.png" width="28.5%">     <img src="screenshot/after/phone4.png" width="28.5%">     <img src="screenshot/after/phone5.png" width="28.5%">     <img src="screenshot/after/phone6.png" width="28.5%">
+</pre>
