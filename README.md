@@ -8,6 +8,10 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rrifafauzikomara/flutter_responsive_app)
 
 
+### Resources 🔥
+* [Medium is Coming Soon]
+
+
 ## 📸 Before
 <pre>
 <img src="screenshot/before/phone1.png" width="30%">     <img src="screenshot/before/phone2.png" width="30%">     <img src="screenshot/before/phone3.png" width="40%">     <img src="screenshot/before/phone4.png" width="40%">     <img src="screenshot/before/phone5.png">     <img src="screenshot/before/phone6.png">
