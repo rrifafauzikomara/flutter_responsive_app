@@ -16,18 +16,18 @@ void main() {
     width = screenWidth / 1.5;
     height = screenHeight / 1.5;
     print('Phone with Width < 900 (Small Phone)');
-  } else if (screenWidth >= 1500) {
-    width = screenWidth / 4;
-    height = screenHeight / 4;
-    print('Phone with Width > 1500 (Tablet / iPad)');
   } else if (screenWidth >= 901 && screenWidth <= 1200) {
     width = screenWidth / 3;
     height = screenHeight / 3;
-    print('Phone with Width > 900 s/d 1200 (Normal Phone)');
+    print('Phone with Width > 901 s/d 1200 (Normal Phone)');
   } else if (screenWidth >= 1201 && screenWidth <= 1500) {
     width = screenWidth / 3.5;
     height = screenHeight / 3.5;
-    print('Phone with Width > 1200 s/d 1500 (Medium Phone)');
+    print('Phone with Width > 1201 s/d 1500 (Medium Phone)');
+  } else {
+    width = screenWidth / 4;
+    height = screenHeight / 4;
+    print('Phone with Width > 1501 (Tablet / iPad)');
   }
 
   print('Result Width --> $width');
@@ -43,14 +43,14 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    /// This will responsive because you add the size based on the size of each device
     return ScreenUtilInit(
       designSize: Size(width, height),
-      allowFontScaling: false,
       builder: () => MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Sizer',
+        title: 'Flutter Responsive App',
         theme: ThemeData.light(),
-        home: HomeScreen(title: 'Flutter Responsive Screen'),
+        home: HomeScreen(title: 'Flutter Responsive App'),
       ),
     );
   }
