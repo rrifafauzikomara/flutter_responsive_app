@@ -1,9 +1,4 @@
 # Flutter Responsive App
-![GitHub stars](https://img.shields.io/github/stars/rrifafauzikomara/FlutterResponsiveApp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/rrifafauzikomara/FlutterResponsiveApp?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/rrifafauzikomara/FlutterResponsiveApp?style=social)
-
-
 [![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rrifafauzikomara/flutter_responsive_app)
 
