@@ -10,11 +10,11 @@
 
 ## 📸 Before
 <pre>
-<img src="screenshot/before/phone1.png" width="30%">     <img src="screenshot/before/phone2.png" width="30%">     <img src="screenshot/before/phone3.png" width="45%">     <img src="screenshot/before/phone4.png" width="45%">     <img src="screenshot/before/phone5.png">     <img src="screenshot/before/phone6.png">
+<img src="screenshot/before/phone1.png" width="30%">     <img src="screenshot/before/phone2.png" width="30%">     <img src="screenshot/before/phone3.png" width="40%">     <img src="screenshot/before/phone4.png" width="40%">     <img src="screenshot/before/phone5.png">     <img src="screenshot/before/phone6.png">
 </pre>
 
 
 ## 📸 After
 <pre>
-<img src="screenshot/after/phone1.png" width="28.5%">     <img src="screenshot/after/phone2.png" width="28.5%">     <img src="screenshot/after/phone3.png" width="28.5%">     <img src="screenshot/after/phone4.png" width="28.5%">     <img src="screenshot/after/phone5.png" width="28.5%">     <img src="screenshot/after/phone6.png" width="28.5%">
+<img src="screenshot/after/phone1.png" width="30%">     <img src="screenshot/after/phone2.png" width="30%">     <img src="screenshot/after/phone3.png" width="40%">     <img src="screenshot/after/phone4.png" width="40%">     <img src="screenshot/after/phone5.png">     <img src="screenshot/after/phone6.png">
 </pre>
