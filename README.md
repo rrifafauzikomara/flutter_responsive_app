@@ -10,7 +10,7 @@
 
 ## 📸 Before
 <pre>
-<img src="screenshot/before/phone1.png">     <img src="screenshot/before/phone2.png">     <img src="screenshot/before/phone3.png">     <img src="screenshot/before/phone4.png">     <img src="screenshot/before/phone5.png">     <img src="screenshot/before/phone6.png">
+<img src="screenshot/before/phone1.png" width="28.5%">     <img src="screenshot/before/phone2.png" width="28.5%">     <img src="screenshot/before/phone3.png" width="30%">     <img src="screenshot/before/phone4.png" width="30%">     <img src="screenshot/before/phone5.png" width="60%">     <img src="screenshot/before/phone6.png" width="60%">
 </pre>
 
 
